@@ -1,0 +1,24 @@
+.explore-now {
+    align-items: flex-start;
+    background-color: #e23744;
+    border-radius: 34px;
+    display: flex;
+    gap: 7px;
+    height: 63px;
+    padding: 14px 34px;
+    position: relative;
+    width: 190px;
+  }
+  
+  .explore-now .text-wrapper {
+    color: #ffffff;
+    font-family: "Open Sans", Helvetica;
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: 0.18px;
+    line-height: 36px;
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }

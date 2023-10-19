@@ -1,0 +1,29 @@
+:root {
+    --body: rgba(68, 73, 87, 1);
+    --button: rgba(59, 160, 70, 1);
+    --h-1-font-family: "SourceSans Pro-Bold", Helvetica;
+    --h-1-font-size: 90px;
+    --h-1-font-style: normal;
+    --h-1-font-weight: 700;
+    --h-1-letter-spacing: 0px;
+    --h-1-line-height: 100px;
+    --h-2-font-family: "Poppins-SemiBold", Helvetica;
+    --h-2-font-size: 65px;
+    --h-2-font-style: normal;
+    --h-2-font-weight: 600;
+    --h-2-letter-spacing: 0px;
+    --h-2-line-height: 39.72328186035156px;
+    --p-1-font-family: "OpenSans-Regular", Helvetica;
+    --p-1-font-size: 24px;
+    --p-1-font-style: normal;
+    --p-1-font-weight: 400;
+    --p-1-letter-spacing: 0px;
+    --p-1-line-height: 40px;
+    --p-2-font-family: "OpenSans-Regular", Helvetica;
+    --p-2-font-size: 22px;
+    --p-2-font-style: normal; --p-2-font-weight: 400;
+    --p-2-letter-spacing: 0px;
+    --p-2-line-height: 40px;
+    --primary: rgba(14, 35, 104, 1);
+  }
+  

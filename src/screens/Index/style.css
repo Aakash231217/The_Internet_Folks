@@ -1,0 +1,210 @@
+.index {
+    background-color: transparent;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .index .div {
+    height: 3527px;
+    overflow: hidden;
+    position: relative;
+    width: 1440px;
+  }
+  
+  .index .overlap-group {
+    height: 2451px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+  }
+  
+  .index .rectangle {
+    height: 804px;
+    left: 0; position: absolute;
+    top: 0;
+    width: 1440px;
+  }
+  
+  .index .screenshot {
+    height: 83px;
+    left: 100px;
+    position: absolute;
+    top: 33px;
+    width: 107px;
+  }
+  
+  .index .img {
+    height: 653px;
+    left: 0;
+    position: absolute;
+    top: 803px;
+    width: 1440px;
+  }
+  .index .rectangle-2 {
+    height: 467px;
+    left: 0;
+    position: absolute;
+    top: 989px;
+    width: 1440px;
+  }
+  
+  .index .group {
+    height: 804px;
+    left: 705px;
+    position: absolute;
+    top: 5px;
+    width: 735px;
+  }
+  
+  .index .explore-now-instance {
+    left: 97px !important;
+    position: absolute !important;
+    top: 556px !important;
+  }
+  
+  .index .discover-the-best {
+    height: 184px;
+    left: 103px;
+    position: absolute;
+    top: 239px;
+    width: 333px;
+  }
+  
+  .index .naturally-made {
+    height: 44px;
+    left: 101px;position: absolute;
+    top: 467px;
+    width: 332px;
+  }
+  
+  .index .about-girl-lp {
+    height: 468px;
+    left: 205px;
+    position: absolute;
+    top: 989px;
+    width: 384px;
+  }
+  
+  .index .group-2 {
+    background-color: #ffffff;
+    height: 995px;
+    left: 0;
+    position: absolute;
+    top: 1456px;
+    width: 1440px;
+  }
+  .index .vector {
+    height: 839px;
+    left: 688px;
+    position: absolute;
+    top: 0;
+    width: 752px;
+  }
+  
+  .index .group-3 {
+    height: 42px;
+    left: 1277px;
+    position: absolute;
+    top: 32px;
+    width: 122px;
+  }
+  
+  .index .group-4 {
+    height: 679px;
+    left: 108px;
+    position: absolute;
+    top: 1614px;
+    width: 1225px;
+  }
+  
+  .index .frame {
+    height: 259px;
+    left: 789px;
+    position: absolute;
+    top: 1092px; top: 1092px;
+    width: 447px;
+  }
+  
+  .index .element {
+    height: 19px;
+    left: 707px;
+    position: absolute;
+    top: 2363px;
+    width: 27px;
+  }
+  
+  .index .group-5 {
+    height: 29px;
+    left: 663px;
+    position: absolute;
+    top: 2357px;
+    width: 28px;
+  }
+  
+  .index .group-6 {
+    height: 29px;
+    left: 749px;
+    position: absolute;
+    top: 2357px;
+    width: 28px;
+  }
+  
+  .index .overlap {
+    background-image: url(https://cdn.animaapp.com/projects/652efa67c6eb9f99ee78d37c/releases/652efaa9ddd60795451a24e9/img/group-296.png); background-size: 100% 100%;
+    height: 362px;
+    left: 1px;
+    position: absolute;
+    top: 2451px;
+    width: 1440px;
+  }
+  
+  .index .screenshot-2 {
+    height: 125px;
+    left: 103px;
+    position: absolute;
+    top: 123px;
+    width: 161px;
+  }
+  
+  .index .overlap-2 {
+    background-color: #ffffff; 
+    height: 994px;
+  left: 1440px;
+  position: absolute;
+  top: 1457px;
+  width: 1440px;
+}
+
+.index .element-2 {
+  height: 19px;
+  left: 706px;
+  position: absolute;
+  top: 907px;
+  width: 28px;
+}
+
+.index .group-7 {
+  height: 29px;left: 663px;
+  position: absolute;
+  top: 901px;
+  width: 28px;
+}
+
+.index .group-8 {
+  height: 29px;
+  left: 749px;
+  position: absolute;
+  top: 901px;
+  width: 28px;
+}
+
+.index .group-9 {
+  height: 679px;
+  left: 114px;
+  position: absolute;
+  top: 158px;
+  width: 1225px;
+}   
